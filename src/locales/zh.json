@@ -1,0 +1,30 @@
+{
+  "title": "商科论文搜索",
+  "subtitle": "搜索和探索顶级商业期刊论文",
+  "keywords": "关键词（用逗号分隔）",
+  "keywordsPlaceholder": "e.g., Consumer behavior, trust",
+  "startYear": "开始年份",
+  "endYear": "结束年份",
+  "searchInGoogleScholar": "在谷歌学术中搜索",
+  "searching": "搜索中...",
+  "summarizing": "正在总结论文",
+  "openInGoogleScholar": "在谷歌学术中打开搜索结果",
+  "journalList": "期刊列表",
+  "selectYear": "选择年份",
+  "summaries": "论文摘要",
+  "aiSummary": "AI总结前20篇论文",
+  "aiSummaryDisabled": "AI总结功能当前不可用",
+  "noSearchUrlError": "请先进行搜索，然后再请求AI总结。",
+  "summaryError": "生成AI总结时发生错误。请重试。",
+  "categories": {
+    "UTD24": "UTD24",
+    "FT50": "FT50",
+    "Accounting": "会计",
+    "Finance": "金融",
+    "Information Systems": "信息系统",
+    "Management": "管理",
+    "Marketing": "市场营销",
+    "Operations Management": "运营管理",
+    "Other": "其他"
+  }
+}

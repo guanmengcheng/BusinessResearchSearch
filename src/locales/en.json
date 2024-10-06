@@ -1,0 +1,30 @@
+{
+  "title": "Business Paper Search",
+  "subtitle": "Search and explore top business journal papers",
+  "keywords": "Keywords (separated by commas)",
+  "keywordsPlaceholder": "e.g., Consumer behavior, trust",
+  "startYear": "Start Year",
+  "endYear": "End Year",
+  "searchInGoogleScholar": "Search in Google Scholar",
+  "searching": "Searching...",
+  "summarizing": "Summarizing papers",
+  "openInGoogleScholar": "Open search results in Google Scholar",
+  "journalList": "Journal List",
+  "selectYear": "Select Year",
+  "summaries": "Paper Summaries",
+  "aiSummary": "AI Summary of Top 20 Papers",
+  "aiSummaryDisabled": "AI Summary feature is currently unavailable",
+  "noSearchUrlError": "Please perform a search first before requesting an AI summary.",
+  "summaryError": "An error occurred while generating the AI summary. Please try again.",
+  "categories": {
+    "UTD24": "UTD24",
+    "FT50": "FT50",
+    "Accounting": "Accounting",
+    "Finance": "Finance",
+    "Information Systems": "Information Systems",
+    "Management": "Management",
+    "Marketing": "Marketing",
+    "Operations Management": "Operations Management",
+    "Other": "Other"
+  }
+}
